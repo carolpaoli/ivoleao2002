@@ -1,5 +1,5 @@
 body {
-    color:grey;
+    color:rgb(114, 114, 114);
 }
 
 /*NAVEGAÇÃO ENTRE PAGINAS*/
@@ -39,6 +39,10 @@ nav a:hover {
 
 h1 {
     text-align: center;
+    color:rgb(247, 159, 53);
+}
+
+strong {
     color:rgb(247, 159, 53);
 }
 
