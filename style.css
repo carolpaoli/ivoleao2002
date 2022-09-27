@@ -33,6 +33,10 @@ nav a:hover {
 
 /*HOME*/
 
+#foto1{
+    width: 350px;
+}
+
 h1 {
     text-align: center;
     color:bisque;
