@@ -48,8 +48,7 @@ nav a {
     display: inline-block;
     text-align: center;
     width: 30%;
-    vertical-align: top;
-    background: #CCCCCC;
+    vertical-align: top
     margin: 0 1.0%;
     padding: 30px 20px;
     box-sizing: border-box;
