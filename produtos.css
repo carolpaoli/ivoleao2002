@@ -96,6 +96,11 @@ footer {
     padding: 40px 0;
 }
 
+.rodape {
+    width: 350px;
+    heigth: 250px;
+}
+
 .copyright {
     color: #ffffff;
     font-size: 13px;
